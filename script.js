@@ -74,25 +74,5 @@ document.addEventListener("DOMContentLoaded", function() {
     type();
   }
 
-  // Footer layout update as per user request
-  const footer = document.querySelector('footer');
-  if (footer) {
-    footer.innerHTML = `
-      <p>Jasmeen Kaur</p>
-      <p>IT Support Specialist</p>
-      <p>
-        Email: <a href="mailto:jasmeenkamboj55@gmail.com">jasmeenkamboj55@gmail.com</a> &nbsp; | &nbsp;
-        LinkedIn: <a href="https://www.linkedin.com/in/jasmeen-kaur07/" target="_blank">Jasmeen Kaur</a>
-      </p>
-      <nav class="footer-nav">
-        <a href="#about">About</a>
-        <a href="#education">Education</a>
-        <a href="#experience">Experience</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-      </nav>
-      <p>© 2025 Jasmeen Kaur. All rights reserved.</p>
-    `;
-  }
+
 });

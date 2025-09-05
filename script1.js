@@ -19,12 +19,15 @@ document.addEventListener("DOMContentLoaded", function () {
     <footer class="footer" style="background-color: #f9e6f0; color: #6b4c6b; padding: 2rem 1rem; font-family: 'Roboto', sans-serif; text-align: center;">
       <div class="footer-container" style="max-width: 1100px; margin: 0 auto;">
         <p style="font-weight: 700; font-size: 1.5rem; margin-bottom: 0.2rem;">Jasmeen Kaur</p>
-        <p style="margin-top: 0; margin-bottom: 0.5rem; font-style: italic;">IT Support Technician</p>
+        <p style="margin-top: 0; margin-bottom: 0.5rem; font-style: italic;">IT Support Specialist</p>
         <p style="margin: 0.5rem 0; font-weight: 600;">
-          Email: <a href="mailto:jasmeenkamboj55@gmail.com" style="color: #6b4c6b; text-decoration: underline;">jasmeenkamboj55@gmail.com</a>
+          <i class="fas fa-envelope"></i> Email: <a href="mailto:jasmeenkamboj55@gmail.com" style="color: #6b4c6b; text-decoration: underline;">jasmeenkamboj55@gmail.com</a>
         </p>
         <p style="margin: 0.5rem 0; font-weight: 600;">
-          LinkedIn: <a href="https://www.linkedin.com/in/jasmeen-kaur07/" target="_blank" style="color: #6b4c6b; text-decoration: underline;">Jasmeen Kaur</a>
+          <i class="fab fa-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/in/jasmeen-kaur07/" target="_blank" style="color: #6b4c6b; text-decoration: underline;">Jasmeen Kaur</a>
+        </p>
+        <p style="margin: 0.5rem 0; font-weight: 600;">
+          <i class="fas fa-phone"></i> Phone: <a href="tel:6472442849" style="color: #6b4c6b; text-decoration: underline;">+1 (647) 244-2849</a>
         </p>
         <nav style="margin: 1.5rem 0; font-size: 1.1rem;">
           <a href="#about" style="color: #6b4c6b; text-decoration: none; font-weight: 600; margin: 0 1rem;">About</a>
