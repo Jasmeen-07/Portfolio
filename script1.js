@@ -26,9 +26,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <p style="margin: 0.5rem 0; font-weight: 600;">
           <i class="fab fa-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/in/jasmeen-kaur07/" target="_blank" style="color: #6b4c6b; text-decoration: underline;">Jasmeen Kaur</a>
         </p>
-        <p style="margin: 0.5rem 0; font-weight: 600;">
-          <i class="fas fa-phone"></i> Phone: <a href="tel:6472442849" style="color: #6b4c6b; text-decoration: underline;">+1 (647) 244-2849</a>
-        </p>
         <nav style="margin: 1.5rem 0; font-size: 1.1rem;">
           <a href="#about" style="color: #6b4c6b; text-decoration: none; font-weight: 600; margin: 0 1rem;">About</a>
           <a href="#education" style="color: #6b4c6b; text-decoration: none; font-weight: 600; margin: 0 1rem;">Education</a>
